@@ -1,4 +1,4 @@
-# 🚀 Parameterized Synchronous FIFO Verification using SystemVerilog
+# Parameterized Synchronous FIFO Verification using SystemVerilog
 
 ## 📖 Overview
 
@@ -16,7 +16,7 @@ The verification environment verifies the FIFO using **directed testcases**, **r
 
 ---
 
-# ✨ Features
+# Features
 
 ## RTL Design
 
@@ -41,7 +41,7 @@ The verification environment verifies the FIFO using **directed testcases**, **r
 
 ---
 
-# 🏗 RTL Block Diagram
+# RTL Block Diagram
 
 ```text
                         PARAMETERIZED SYNCHRONOUS FIFO
@@ -101,7 +101,7 @@ ADDR_WIDTH : ceil(log2(DEPTH))
 
 ---
 
-# 🧪 Verification Architecture
+# Verification Architecture
 
 ```text
                                fifo_tb
@@ -149,7 +149,7 @@ ADDR_WIDTH : ceil(log2(DEPTH))
 
 ---
 
-# 📋 Verification Testcases
+# Verification Testcases
 
 | Testcase | Description | Result |
 |----------|-------------|--------|
@@ -164,7 +164,7 @@ ADDR_WIDTH : ceil(log2(DEPTH))
 
 ---
 
-# 📊 Simulation Result
+# Simulation Result
 
 ```text
 =======================================================
@@ -180,7 +180,7 @@ FAILED      : 0
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 parameterized-fifo-verification
@@ -202,7 +202,7 @@ parameterized-fifo-verification
 
 ---
 
-# 🛠 Tools Used
+# Tools Used
 
 - **Language:** SystemVerilog
 - **Simulator:** AMD Vivado XSim 2025.2
@@ -211,7 +211,7 @@ parameterized-fifo-verification
 
 ---
 
-# 🎯 Results
+# Results
 
 - ✔ Parameterized FIFO RTL Design
 - ✔ Self-checking Verification Environment
@@ -222,7 +222,7 @@ parameterized-fifo-verification
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 - SystemVerilog Interface
 - Assertions (SVA)
@@ -234,7 +234,7 @@ parameterized-fifo-verification
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Krishna K S**
 
@@ -244,6 +244,6 @@ Electronics & Communication Engineering
 
 ---
 
-# 📜 License
+# License
 
 This project is licensed under the **MIT License**.
