@@ -12,7 +12,7 @@ The FIFO supports configurable **DATA_WIDTH** and **DEPTH**, and includes:
 - Almost Empty Flag
 - Count Register
 
-The verification environment verifies the FIFO using **directed testcases**, **random stress testing**, and a **reference-model scoreboard**.
+The verification of the environment verifies the FIFO using **directed testcases**, **random stress testing**, and a **reference-model scoreboard**.
 
 ---
 
